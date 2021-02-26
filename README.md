@@ -16,3 +16,13 @@ After the client is verified by the server and it is connected to the server. Th
 5. Remove organization
 6. Quit
 
+## Running the application
+First run the server.
+
+    python3 server.py
+
+Then Run the client
+
+    python3 client.py
+
+Provide the necessary credentials for authentication. The authorized user's credentials are in ***users.txt*** file
